@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540752875 source:c:\users\eder\desktop\disciplinas ufv\trabalhos pr¡ticos\tp2_aeds - josu…_3465 - lucas_3511 - mateus_3488\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
+1540744056 c:\users\eder\desktop\disciplinas ufv\trabalhos pr¡ticos\tp2_aeds - josu…_3465 - lucas_3511 - mateus_3488\funcoes.h
+
+1540772959 source:c:\users\eder\desktop\disciplinas ufv\trabalhos pr¡ticos\tp2_aeds - josu…_3465 - lucas_3511 - mateus_3488\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Funcoes.h"
+
